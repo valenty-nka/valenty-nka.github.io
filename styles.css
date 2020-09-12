@@ -109,3 +109,15 @@ table {
   font-family: serif;
   font-weight: bold;
 }
+
+.btn{
+  padding: 10px 30px;
+  cursor: pointer;
+  background: #000;
+  border: none;
+  border-radius: 10px;
+}
+
+.btn:hover{
+  background: gray;
+}
